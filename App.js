@@ -32,6 +32,9 @@ export default class App extends React.Component {
           }}
         />
 
+<Text>
+  hi this is Monkey chunks App
+</Text>
         <Image
           style={styles.imageIcon}
           source={{
